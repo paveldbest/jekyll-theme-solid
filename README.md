@@ -1,9 +1,13 @@
-jekyll-theme-solid
+Weisu Xiong personal website
 =================
 
 A simple and clean jekyll theme without javascript.
 
-Online Demo: <http://mazhuang.org/jekyll-theme-solid>
+Thanks to Zhuang Zhou.
+I know knowhing but C
+now I have my personal website
+
+Online Demo: <http://zhennanren945.md>
 
 ## Screenshots
 
