@@ -6,8 +6,7 @@ A simple and clean jekyll theme without javascript.
 Thanks to Zhuang Zhou.
 I know knowhing but C
 now I have my personal website
-
-Online Demo: <http://zhennanren945.md>
+JUST FOR FUN 
 
 ## Screenshots
 
