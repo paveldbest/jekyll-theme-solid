@@ -1,8 +1,8 @@
 ---
-layout:post
-title:Install specific version of opencv_python
+layout: post
+title: Install specific version of opencv_python
 on OSX
-categories:coding
+categories: Coding
 description: problems when install opencv_python
 keywords: requirements.txt,opencv_python
 ---
