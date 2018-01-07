@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Install
+title: Install opencv-python 3.4.0.12
 categories: Coding 
 description: problems when install opencv-python
 keywords: requirements.txt, opencv-python
