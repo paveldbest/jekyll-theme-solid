@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Install specific version of opencv-python
-on OSX
-categories:[ Coding ]
-description: problems when install opencv_python
-keywords: requirements.txt,opencv_python
+title: Install
+categories: Coding 
+description: problems when install opencv-python
+keywords: requirements.txt, opencv-python
 ---
+
 So I was working on python these days while I just
 jumped in to this issue when install requirment.txt
 ![](Screen Shot 2018-01-07 at 23.13.30.png)
