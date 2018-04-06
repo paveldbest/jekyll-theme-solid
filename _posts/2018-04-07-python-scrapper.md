@@ -43,7 +43,8 @@ for list in soup.find_all("div",class_ = "listingInfo rui-clearfix"):
 	address = list.find("h2",class_ = "rui-truncate")
 	price = list.find("p",class_ = "priceText")
 	agentname = list.p.get_text()
-	print (address.get_text(),price.get_text(),agentname,sep = ' | ')``` 
+	print (address.get_text(),price.get_text(),agentname,sep = ' | ')
+``` 
 
 
 - First using beautifulsoup to parse the html page opened by requests
