@@ -11,12 +11,10 @@ I am writing this article just to go through the code again. &nbsp;&nbsp;
 
 The code is as follows :
 
-'''# -*- coding: utf-8 -*-
+```# -*- coding: utf-8 -*-
 import requests
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-
-
 
 ## open the webpage using bs
 def get_webpage(url):
@@ -45,8 +43,8 @@ for list in soup.find_all("div",class_ = "listingInfo rui-clearfix"):
 	address = list.find("h2",class_ = "rui-truncate")
 	price = list.find("p",class_ = "priceText")
 	agentname = list.p.get_text()
-	print (address.get_text(),price.get_text(),agentname,sep = ' | ')
-'''
+	print (address.get_text(),price.get_text(),agentname,sep = ' | ')``` 
+
 
 - First using beautifulsoup to parse the html page opened by requests
 - Then find the tag that contains each property info, in my case it is under < class listingInfo rui-clearfix >
