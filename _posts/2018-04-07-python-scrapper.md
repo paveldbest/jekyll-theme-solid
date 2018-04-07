@@ -11,7 +11,8 @@ I am writing this article just to go through the code again. &nbsp;&nbsp;
 
 The code is as follows :
 
-```# -*- coding: utf-8 -*-
+```
+# -*- coding: utf-8 -*-
 import requests
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
