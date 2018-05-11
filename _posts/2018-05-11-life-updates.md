@@ -6,7 +6,7 @@ description:
 ---
 
 So this is mainly a reflection for my first half of 2018.
-
+---
 
 It has been a rough time since the 2nd year of uni starts in the end of Feburary. I really set myself with a high expectation. The past couple 
 exams periods are nightmares for me which I could never forget. I have been rushing so bad to cover all the material for exams that 
